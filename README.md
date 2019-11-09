@@ -3,11 +3,10 @@
 
   <h3 align="center">Captain's Log</h3>
 
+  <p align="center">
   <a href="https://github.com/izzettunc/captains-log">
     <img src="data/screenshots/logo.png" alt="Logo" width="80" height="80">
   </a>
-
-  <p align="center">
     A journaling application that encrypts your files and store them safely.
     <br />
     <br />
