@@ -7,6 +7,7 @@
   <a href="https://github.com/izzettunc/captains-log">
     <img src="data/screenshots/logo.png" alt="Logo" width="80" height="80">
   </a>
+  <br>
     A journaling application that encrypts your files and store them safely.
     <br />
     <br />
