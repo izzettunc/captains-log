@@ -63,14 +63,19 @@ git clone https://github.com/izzettunc/captains-log.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+### Login recycle
 ![Login Screen Shot][login-screenshot]
 
+### Main Page
 ![Main Screen Shot][main-screenshot]
 
+### Other Functions
 ![Main Functions Screen Shot][mainfunc-screenshot]
 
+### Function Cycle
 ![Functions Screen Shot][func-screenshot]
 
+### Text Editor
 ![Text Editor Screen Shot][texteditor-screenshot]
 
 ### Data Storing Procedure
