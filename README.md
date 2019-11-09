@@ -63,7 +63,7 @@ git clone https://github.com/izzettunc/captains-log.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### Login recycle
+### Login Cycle
 ![Login Screen Shot][login-screenshot]
 
 ### Main Page
