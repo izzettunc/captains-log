@@ -4,6 +4,7 @@
   <h3 align="center">Captain's Log</h3>
 
   <p align="center">
+    ![Product Name Screen Shot][product-screenshot]
     A journaling application that encrypts your files and store them safely.
     <br />
     <br />
@@ -31,8 +32,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Product Name Screen Shot][product-screenshot]
 
 I just want write some journal and made this project on a whim. But it's end up pretty nice and I want to share it.
 
